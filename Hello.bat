@@ -1,2 +1,2 @@
 echo "Hello world"
-I am in feature`
+echo "I am in feature"
