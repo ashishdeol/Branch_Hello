@@ -1,2 +1,2 @@
 echo "Hello world"
-I am in defect
+echo "I am in defect"
